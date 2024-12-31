@@ -1,0 +1,37 @@
+### **Java Files Index**
+
+1. **AnagramChecker.java**  
+2. **ArithmeticCalculator.java**  
+3. **AverageCalculator.java**  
+4. **CharacterValidator.java**  
+5. **CircleAreaCircumference.java**  
+6. **CustomerRecordDeletion.java**  
+7. **DataStructureOperations.java**  
+8. **DateValidator.java**  
+9. **DecimalToBinaryConverter.java**  
+10. **DynInsert.java**  
+11. **FetchCustomerData.java**  
+12. **FileDuplicator.java**  
+13. **GarbageCollection.java**  
+14. **InterestCalculatorProgram.java**  
+15. **ItemManager.java**  
+16. **LargestFileLocator.java**  
+17. **LeapYearChecker.java**  
+18. **MaxValueFromSets.java**  
+19. **package.java**  
+20. **ParagraphAnalyzer.java**  
+21. **PasswordValidationTool.java**  
+22. **PayrollManagement.java**  
+23. **RainbowColor.java**  
+24. **ReverseSentence.java**  
+25. **ReverseWords.java**  
+26. **RhombusAreaCalculator.java**  
+27. **SentenceExtractor.java**  
+28. **ShapeCalculatorAbstract.java**  
+29. **ShapeCalculator.java**  
+30. **StoredProcedureNoParameter.java**  
+31. **StringCenterPad.java**  
+32. **StudentRegistration.java**  
+33. **TextReplacer.java**  
+34. **UniqueCharacterCounter.java**  
+35. **WordFilter.java**
